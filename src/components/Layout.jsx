@@ -4,14 +4,14 @@ const Layout = () => {
   return (
     <div className="app-shell">
       <header className="hero">
-        <div>
+        {/* <div>
           <p className="eyebrow">Personal Expense Tracker</p>
           <h1>Track monthly expenses without extra clutter.</h1>
           <p className="hero-text">
             Add monthly expenses, manage your daily spend target, and check the report page for a
             quick month-wise summary.
           </p>
-        </div>
+        </div> */}
 
         <nav className="nav-tabs">
           <NavLink to="/" end>
